@@ -1,18 +1,18 @@
-#Android
+# Android
 
--O site foi feito baseado  no exercicio 010 do **Gustavo Guanabar** do modulo 2
--Esse site serve para manter as pessoas informadas sobre as informacoes e as versoes do android
--Esse site esta sendo contruido para eu aprimorar as minhas abilidades
+- O site foi feito baseado  no exercicio 010 do **Gustavo Guanabar** do modulo 2
+- Esse site serve para manter as pessoas informadas sobre as informacoes e as versoes do android
+- Esse site esta sendo contruido para eu aprimorar as minhas abilidades
 
-##Tecnologias Usadas 
+## Tecnologias Usadas 
 
--HTML5
--CSS
--Flexbox
+- HTML5
+- CSS
+- Flexbox
 
-##Fucionalidades 
+## Fucionalidades 
 
--Informacoes sobre as versoes do android
+- Informacoes sobre as versoes do android
 
-#Autor 
+# Autor 
 **Leandro Jesus**
