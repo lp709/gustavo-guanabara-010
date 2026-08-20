@@ -1,11 +1,13 @@
 @charset "UTF-8";
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 @font-face {
    src: url('../fontes/idroid.otf') format('opentype');
    font-family: 'Android';
    font-weight: normal;
 }
+
 :root {
    --cor0: #c5ebd6;
    --cor1: #83e1ad;
@@ -36,12 +38,12 @@ header {
    background-color: var(--cor4);
 }
 
-header > h1 {
+header>h1 {
    color: white;
    font-family: var(--font-destaque);
 }
 
-header > p {
+header>p {
    color: white;
 }
 
